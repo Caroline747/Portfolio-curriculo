@@ -1437,3 +1437,7 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
+.starter-section {
+  padding: 60px 0;
+  background: var(--background-color);
+}
